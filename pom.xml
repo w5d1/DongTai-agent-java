@@ -34,7 +34,7 @@
         <commons-collections.version>3.2.1</commons-collections.version>
         <commons-io.version>2.4</commons-io.version>
         <commons-configuration.version>1.10</commons-configuration.version>
-        <guava.version>18.0</guava.version>
+        <guava.version>32.0.0-android</guava.version>
         <json.version>20160810</json.version>
         <retrofit.version>1.9.0</retrofit.version>
         <!--        <asm.version>5.0.4</asm.version>-->
