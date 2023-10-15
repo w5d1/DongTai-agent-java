@@ -35,7 +35,7 @@
         <commons-io.version>2.4</commons-io.version>
         <commons-configuration.version>1.10</commons-configuration.version>
         <guava.version>18.0</guava.version>
-        <json.version>20160810</json.version>
+        <json.version>20231013</json.version>
         <retrofit.version>1.9.0</retrofit.version>
         <!--        <asm.version>5.0.4</asm.version>-->
         <asm.version>7.0</asm.version>
